@@ -39,4 +39,4 @@ python test-single.py --lr xx --hidden_neurons yy  --regularization zz
 
 ## Visualization
 
-![](weight_0_visual.png.png)
+![](weight_0_visual.png)
